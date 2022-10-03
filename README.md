@@ -1,2 +1,2 @@
-# PortfolioPoject
+# PortfolioProject
 Data Exploration using SQL
